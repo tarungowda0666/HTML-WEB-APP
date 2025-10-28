@@ -17,6 +17,9 @@ To deploy a **static web application** (HTML timetable) on a **cloud platform** 
 This project is a simple **timetable web app** developed using basic HTML.  
 The webpage displays the weekly schedule for J-Section in a clear tabular format with a light blue background.
 
+---
+## Link:[tiiny.host](https://blue-eudora-74.tiiny.site)
+
 File used for deployment: `index.html`
 
 ```html
